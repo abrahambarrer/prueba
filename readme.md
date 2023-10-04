@@ -1,3 +1,3 @@
 # include git
 
-Este texto es una pruebagi
+Este texto es una prueba de mi primer repositorio
